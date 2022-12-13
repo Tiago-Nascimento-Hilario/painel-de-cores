@@ -1,0 +1,35 @@
+.painel-de-cores{
+
+    width: 100px;
+    height: 100px;
+    
+    border-radius: 100%;
+    background-color: green;
+    margin-inline: 110px;
+    text-align: center;
+}
+.painel-nome-da-cor{
+    padding-top: 40px;
+    font-size: 22px;
+}
+.botao-painel{
+    border: none;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-inline-end:15px;
+    padding: 8px;
+    width: 100px;
+
+}
+/*Classes que serão usadas no js no parãmetro*/
+.amarelo{
+    background-color: yellow;
+}
+.vermelho{
+    background-color: red;
+}
+.azul{
+    background-color: blue;
+}
